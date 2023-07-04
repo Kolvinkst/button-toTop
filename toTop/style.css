@@ -1,0 +1,30 @@
+body {
+    overflow: scroll;
+}
+
+#sect1 {
+    background-color: blue;
+    font-size: 48px;
+    color:aliceblue;
+}
+
+#sect2 {
+    background-color: darkviolet;
+    font-size: 48px;
+    color:linen;
+}
+
+#sect3 {
+    background-color: red;
+    font-size: 48px;
+    color:deepskyblue;
+}
+
+#toTopArrow {
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    right: 0;
+    margin-right: 30px;
+    cursor: pointer;
+}
